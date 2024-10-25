@@ -1,6 +1,10 @@
-# Live Hosting URL: https://fir-test-71a59.web.app
-# Default Documentation
-# Getting Started with Create React App
+#### Check out this firebase deployment👇!
+## Live Hosting URL: https://fir-test-71a59.web.app
+
+---
+
+Default Documentation
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
